@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python main.py --T 0.7 --model 'ACCNet' --label-type 'NT' --edge-compute 'COS' --subjects 40  --learning-rate 1e-3 --GNN-inheads 4
