@@ -1,4 +1,4 @@
-# ACCNet: Adaptive Cross-frequency Coupling Graph Attention for EEG Emotion Recognition
+# ACCNet: Adaptive Cross-frequency Coupling Graph Attention for EEG Emotion Recognition [Under Review]
 
 
 
