@@ -4,7 +4,7 @@
 
 ## DATASET
 
-Download the Processed FACED dataset and extract all files to path : ./data/raw_EEG.
+Download the processed FACED dataset and extract all files to path: ./data/raw_EEG.
 
 ## Run
 
