@@ -1,5 +1,3 @@
-# This is the processing script of DEAP dataset
-
 import _pickle as cPickle
 
 from train_model_eeg import *
